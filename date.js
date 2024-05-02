@@ -1,0 +1,21 @@
+let now = new Date()
+
+console.log(now)
+
+let year = now.getFullYear()
+let month = now.getMonth()
+let date = now.getDate()
+let day = now.getDay()
+let hour = now.getHours()
+let minute = now.getMinutes()
+let second = now.getSeconds()
+let time = now.getTime()
+
+console.log(year)
+console.log(month)
+console.log(date)
+console.log(day)
+console.log(hour)
+console.log(minute)
+console.log(second)
+console.log(time)
